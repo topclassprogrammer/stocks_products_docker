@@ -1,0 +1,6 @@
+.dockerignore
+.venv
+.env
+.idea
+db_file
+README.md
