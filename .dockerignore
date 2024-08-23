@@ -1,6 +1,8 @@
 .dockerignore
+.gitignore
 .venv
 .env
 .idea
 db_file
+db_data
 README.md
